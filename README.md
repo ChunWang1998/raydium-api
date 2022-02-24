@@ -33,7 +33,7 @@ getRaydiumUserLiquidityBalance()
 - poolQuoteValue #string
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-api/blob/develop/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.10.12.png)
+![image](https://github.com/ChunWang1998/raydium-api/blob/main/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.10.12.png)
 
 ### example code 
 ```js
@@ -86,11 +86,11 @@ getRaydiumUserFarmBalance()
 ### example successful output
 single reward:
 
-![image](https://github.com/UniOasis/solana-api/blob/develop/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.09.54.png)
+![image](https://github.com/ChunWang1998/raydium-api/blob/main/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.09.54.png)
 
 dual reward:
 
-![image](https://github.com/UniOasis/solana-api/blob/develop/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.10.02.png)
+![image](https://github.com/ChunWang1998/raydium-api/blob/main/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.10.02.png)
 
 ### example code 
 ```js
@@ -137,7 +137,7 @@ getRaydiumUserStakeBalance()
 - poolReward #string
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-api/blob/develop/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.24.14.png)
+![image](https://github.com/ChunWang1998/raydium-api/blob/main/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%889.24.14.png)
 
 ### example code 
 ```js
@@ -188,7 +188,7 @@ API data 可以由getRaydiumPairAPIData() 產生
 - liquidity #int
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-api/blob/develop/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%8810.51.18.png)
+![image](https://github.com/ChunWang1998/raydium-api/blob/main/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%8810.51.18.png)
 
 ### example code 
 ```js
@@ -236,7 +236,7 @@ slippageCnt()
 - priceImpact #string
 
 ### example successful output
-![image](https://github.com/UniOasis/solana-api/blob/develop/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.23.57.png)
+![image](https://github.com/ChunWang1998/raydium-api/blob/main/%E6%88%AA%E5%9C%96%202022-01-20%20%E4%B8%8B%E5%8D%882.23.57.png)
 
 ### example code 
 ```jsconst { Connection } = require('@solana/web3.js')
